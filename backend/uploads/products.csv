@@ -1,0 +1,6 @@
+name,price,secure_url,stock,description,tags,size,color
+Brainchild Skull,20,"https://res.cloudinary.com/djdw2lb6o/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1735300263/sturdyimg1_z6r6gx.jpg",10,"A great product!","['T-shirt', 'Skull', 'Casual']","S,M,L,XL","Red,Blue,Purple,Grey,White,Black"
+Brainchild Bad Boy,20,"https://res.cloudinary.com/djdw2lb6o/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1735300259/sturdyimg2_dn838f.jpg",10,"A great product!","['T-shirt', 'Casual']","S,M,L,XL","Red,Blue,Purple,Grey,White,Black"
+Brainchild Bad Boy Hoodie,20,"https://res.cloudinary.com/djdw2lb6o/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1735300261/sturdyimg3_i3edec.jpg",10,"A great product!","['Hoodie', 'Casual', 'Cozy']","S,M,L,XL","Red,Blue,Purple,Grey,White,Black"
+Gorilla Tee,10,"https://res.cloudinary.com/djdw2lb6o/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1735300257/sturdyimg4_wpmq9s.jpg",10,"A great product!","['T-shirt', 'Casual', 'Cozy']","S,M,L,XL","Red,Blue,Purple,Grey,White,Black"
+Wanted Brainchild,10,"https://res.cloudinary.com/djdw2lb6o/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1735300242/sturdyimg12_aap7te.jpg",10,"A great product!","['T-shirt', 'Casual', 'Skull']","S,M,L,XL","Red,Blue,Purple,Grey,White,Black"
